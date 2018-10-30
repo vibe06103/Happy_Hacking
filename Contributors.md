@@ -2,6 +2,8 @@
   - [LinkedIn](https://www.linkedin.com/in/sudarshankamath/)
 - [Diptanshu Agarwal](https://github.com/diptanshu-sopho)
   - [LinkedIn](https://www.linkedin.com/in/diptanshu-agarwal/)
+
+- [Vibe](https://github.com/vibe06103)
 - [Sarah Perea](https://github.com/sarahperea)
   - [LinkedIn](https://www.linkedin.com/in/sarahperea/)
 - [Yoga Agung](https://github.com/yogaap24)
